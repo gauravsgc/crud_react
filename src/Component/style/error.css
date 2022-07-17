@@ -1,0 +1,7 @@
+.notfound
+{
+    position: fixed;
+    top:0px;
+    width: 100vw;
+    background-color: aliceblue;
+}
